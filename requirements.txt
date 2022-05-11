@@ -1,0 +1,13 @@
+Webpack - сборщик проекта собирает все в один файл (import/export)
+    Babel - для поддержки js старых версий
+    Scss для верстки
+    Eslint - следить за чистотой кода
+    2 modes
+        - Dev mode (Dev Server, SourceMaps, Eslint, Not Minified JS & CSS)
+        - Prod mode (Minified Code)
+Git
+
+- Production 1.0.0
+__________
+- Development 1.0.2 (последнее число, небольшие изменения, средние более большие изменения)
+____________
